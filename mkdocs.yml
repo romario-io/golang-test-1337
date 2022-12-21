@@ -1,0 +1,11 @@
+site_name: 'golang-test-1337'
+site_description: 'Main documentation for Backstage features and platform APIs'
+repo_url: https://github.com/romario-io/golang-test-1337
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Getting Started:
+      - Getting Started: 'docs/index.md'
